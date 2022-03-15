@@ -6,5 +6,3 @@ Link: https://analeticiacarvalho.github.io/Login-Page-Witchcraft/
 
 
 
-![alt text] (https://github.com/[AnaLeticiaCarvalho]/[Login-Page-Witchcraft/blob]/[master]/image/analeticiawitchcraft2.png)
-
